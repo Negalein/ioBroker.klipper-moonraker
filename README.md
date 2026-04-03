@@ -1,6 +1,7 @@
 ![Logo](admin/klipper-moonraker.png)
 # ioBroker.klipper-moonraker
 
+
 ![Number of Installations](https://iobroker.live/badges/klipper-moonraker-installed.svg)
 ![Stable version](https://iobroker.live/badges/klipper-moonraker-stable.svg)
 ![NPM version](https://img.shields.io/npm/v/iobroker.klipper-moonraker.svg)
